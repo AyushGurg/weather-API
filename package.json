@@ -1,0 +1,23 @@
+{
+  "name": "weather-api",
+  "version": "1.0.0",
+  "description": "Shows the weather for a given city",
+  "main": "magic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushGurg/weather-API.git"
+  },
+  "author": "Ayush G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyushGurg/weather-API/issues"
+  },
+  "homepage": "https://github.com/AyushGurg/weather-API#readme",
+  "devDependencies": {
+    "webpack": "^5.78.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
